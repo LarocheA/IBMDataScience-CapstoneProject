@@ -1,1 +1,1 @@
-# IBMDataScienceCapstoneProject
+# IBMDataScience-CapstoneProject
